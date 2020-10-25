@@ -15,7 +15,7 @@ git clone https://github.com/banuhos/credit-app-backend.git
 * Spring boot 2.3.4
 * MongoDB
 
-## Run Server with creadit-app-frontend Project
+## Run Project with creadit-app-frontend Project
 
 When this project is run with the frontend project, the interface view looks like the following.
 
